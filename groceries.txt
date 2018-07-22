@@ -4,3 +4,6 @@ oranges
 apple juice
 surge protector
 watermelon
+napkins
+paper towels
+plastic cups
